@@ -4,6 +4,7 @@ base58
 * original location of this library: https://github.com/btcsuite/btcd/btcutil/base58
 * new location, just the base58 library: https://github.com/glycerine/base58
 * I (glycerine) have simply extracted just the base58 library out of btcd in order to reduce the import bulk.
+* The btcd version was v0.24.2. I will tag this extraction as the same.
 * The rest of the original README follows:
 
 [![Build Status](http://img.shields.io/travis/btcsuite/btcutil.svg)](https://travis-ci.org/btcsuite/btcutil)
